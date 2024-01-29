@@ -9,7 +9,7 @@ responseForCreate = requests.post(
         "photo": "https://dolnikov.ru/pokemons/albums/001.png"
     },
     headers={
-        'trainer_token' : 'c2aeccd8a035f5e9f1e27a542fdb7d4d',
+        'trainer_token' : 'enterYourToken',
         'Content-Type' : 'application/json'
     }
 )
